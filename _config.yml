@@ -6,10 +6,11 @@ permalink:           pretty
 
 # Setup
 title:               Charles K Lam
-tagline:             'Chucklin'' at Life and Blogging about it'
+tagline:             'Chucklin'' at Life and Blogging about It'
 description:         'Engineer, Developer, Student, Dreamer'
 url:                 "http://chucklinatlife.github.io/blog"
 baseurl:             '/blog'
+homeurl:			 "http://chucklinatlife.github.io"
 paginate:            5
 
 #to change
