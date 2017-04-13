@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# In Pursuit of Hanami (花見)
+## In Pursuit of Hanami (花見)
 ---
 ## 1日 (Day 1)
 
