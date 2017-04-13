@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # In Pursuit of Hanami (花見)
 ---
@@ -29,4 +29,4 @@ The @Home Cafe was located on the 5F of the Akihabara Don Quixote building. It w
 
 **おやすみ!** (Oyasumi!)
 
-See you tomorrow! 
+See you tomorrow!
